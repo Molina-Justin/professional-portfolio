@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/professional-portfolio/static/css/main.b94ad03f.css",
+    "main.js": "/professional-portfolio/static/js/main.a56ca462.js",
+    "static/media/Memoji.jpg": "/professional-portfolio/static/media/Memoji.31527a55b99840089c2a.jpg",
+    "static/media/John-Cv.pdf": "/professional-portfolio/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/professional-portfolio/index.html",
+    "main.b94ad03f.css.map": "/professional-portfolio/static/css/main.b94ad03f.css.map",
+    "main.a56ca462.js.map": "/professional-portfolio/static/js/main.a56ca462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b94ad03f.css",
+    "static/js/main.a56ca462.js"
+  ]
+}
